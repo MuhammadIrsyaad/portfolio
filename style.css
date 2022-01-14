@@ -1,0 +1,21 @@
+body {
+  height: 2000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+}
+
+#tentang {
+  padding-top: 6rem;
+}
+
+#mediainformasi {
+  padding-top: 6rem;
+}
+
+#kontak {
+  padding-top: 6rem;
+}
+section {
+  padding-top: 10rem;
+}
